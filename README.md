@@ -10,9 +10,6 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-0-blue.svg?color=5ac4bf"></a>
-    <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    <a href="https://github.com/drmmpro/drmmpro.github.io/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/drmmpro/drmmpro.github.io?color=green&label=updated"></a>
 </p>
 
 This curated list contains 0 awesome open-source projects with a total of 0 stars grouped into 0 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/drmmpro/drmmpro.github.io/issues/new/choose), submit a [pull request](https://github.com/drmmpro/drmmpro.github.io/pulls), or directly edit the [projects.yaml](https://github.com/drmmpro/drmmpro.github.io/edit/main/projects.yaml). Contributions are very welcome!
